@@ -177,7 +177,7 @@ docker ps
 <img src="https://github.com/DreamTeam-P4/Docker/blob/main/lara-verif.PNG"  width=100% />
 
 C'est fini 
-On lance notre application sur le port spécifié => pour nous c est 8089
+On lance notre application sur le port spécifié => pour nous c est 8098
 # localhost:8098
 
 
